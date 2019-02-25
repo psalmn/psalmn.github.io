@@ -3,7 +3,8 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Psalm Niranjan'
-description: 'I am amazing.'
+description: '
+"Hi, this is a webpage. Hopefully this page will have more than just this in the future!" - Psalm, 5 Jan 2014.'
 
 # Images
 avatar: 'assets/img/avatar.jpg'
@@ -34,7 +35,7 @@ twitter: 'psalmniranjan'
 #blog_url: 'myblog.blog.com'
 #messenger: 'myfbchat'
 
-social-links-order: [email, linkedin, github-user, twitter]
+social-links-order: [email, linkedin, github-user]
 
 # Advanced settings
 plugins:
